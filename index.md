@@ -1,7 +1,14 @@
+---
+layout: default
+title: Notes
+---
+
 # Mikanixonable's Notes
-* [github pages](https://mikanixonable.github.io/notes/)
+* [github repository](https://github.com/Mikanixonable/notes)
 * [1](./1)
 * [2](./2)
 * [3](./3)
 
-[top](..)
+[月面植物園top](..)
+
+

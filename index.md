@@ -1,4 +1,4 @@
-** a  
+[github pages](https://mikanixonable.github.io/notes/)
 * s
 * j
 ### Title

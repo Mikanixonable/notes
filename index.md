@@ -11,4 +11,9 @@ title: Notes
 
 [月面植物園top](..)
 
+~~~python
+import math
+print(math.pi)
+~~~
+
 
